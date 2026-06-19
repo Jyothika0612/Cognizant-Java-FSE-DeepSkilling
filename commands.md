@@ -1,6 +1,0 @@
-"#Git Commands Learned" 
-"git inti" 
-"git status" 
-"git commit -m 'message'" 
-"git push" 
-"git pull" 
