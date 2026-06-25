@@ -1,4 +1,5 @@
 node_modules/
+React-project/
 React-project/**/node_modules/
 coverage/
 build/
