@@ -1,0 +1,20 @@
+.container{
+  text-align:center;
+  margin-top:50px;
+}
+
+.navbar{
+  margin-bottom:20px;
+}
+
+.navbar a{
+  margin:15px;
+  text-decoration:none;
+  color:blue;
+  font-size:20px;
+  font-weight:bold;
+}
+
+.navbar a:hover{
+  color:red;
+}
