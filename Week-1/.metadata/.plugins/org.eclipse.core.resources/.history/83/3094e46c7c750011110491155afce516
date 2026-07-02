@@ -1,0 +1,16 @@
+package com.example;
+
+public class FileService {
+
+    private FileManager fileManager;
+
+    public FileService(FileManager fileManager) {
+        this.fileManager = fileManager;
+    }
+
+    public void removeFile(String fileName) {
+
+        fileManager.deleteFile(fileName);
+
+    }
+}

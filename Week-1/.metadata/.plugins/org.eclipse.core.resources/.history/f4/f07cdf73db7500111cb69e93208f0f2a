@@ -1,0 +1,9 @@
+package com.example.demo;
+
+import java.util.List;
+
+public List<User> getUsersByName(String name) {
+
+    return userRepository.findByName(name);
+
+}
