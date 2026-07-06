@@ -1,0 +1,5 @@
+"# Day 1 -Git Basics" 
+"Setup Git" 
+"Configure Git" 
+"Create Local Repository" 
+"Push Code to GitHub" 
